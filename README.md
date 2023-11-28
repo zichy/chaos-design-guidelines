@@ -1,6 +1,6 @@
 # Chaos Design Guidelines
 
-Dieses Dokument enthält Richtlinien für die Designs und Styleguides von Veranstaltungen aus dem Chaos-Umfeld ([CCC](https://www.ccc.de)). Die Richtlinien sind nicht präskriptiv, sondern bilden aus der Community entstandene Gegebenheiten und Best Practices ab.
+Dieses Dokument enthält Richtlinien für die Designs und Styleguides von Veranstaltungen des Chaos-Umfelds ([CCC](https://www.ccc.de)). Die Richtlinien sind nicht präskriptiv, sondern bilden aus der Community entstandene Gegebenheiten und Best Practices ab.
 
 Die Guidelines sind vorläufig nur auf Deutsch verfügbar.
 
