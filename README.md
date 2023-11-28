@@ -1,6 +1,6 @@
 # Chaos Design Guidelines
 
-Dieses Dokument enthält Richtlinien für die Designs und Styleguides von Veranstaltungen des Chaos-Umfelds ([CCC](https://www.ccc.de)). Die Richtlinien sind nicht präskriptiv, sondern bilden aus der Community entstandene Gegebenheiten und Best Practices ab.
+Dieses Dokument enthält Richtlinien für die Designs und Styleguides von Veranstaltungen des [Chaos-Umfelds](https://www.ccc.de). Die Richtlinien sind nicht präskriptiv, sondern bilden aus der Community entstandene Gegebenheiten und Best Practices ab.
 
 Die Guidelines sind vorläufig nur auf Deutsch verfügbar.
 
@@ -17,8 +17,8 @@ Das Design von (jährlichen) Chaos-Veranstaltungen zeichnet sich durch folgende 
 
 * Es sollte mindestens eine gut lesbare Schriftart für Fließtexte gewählt werden.
 * Schriftarten für Fließtexte sollten mindestens in den Schnitten Regular, Fett, Kursiv und Fett-Kursiv verfügbar sein.
-* Zu detaillierte typografische Richtlinien sind von Laien schwer umsetzbar.
-* Schriftarten sollten frei zugänglich sein – bevorzugt sind gemeinfreie und unter der [OFL](scripts.sil.org/ofl) lizenzierte.
+* Zu detaillierte typografische Richtlinien oder Veränderungen der Glyphen sind von Laien schwer umsetzbar.
+* Schriftarten sollten frei zugänglich sein – bevorzugt sind gemeinfreie und unter der [OFL](https://scripts.sil.org/ofl) lizenzierte.
 * Die verwendeten Schriftarten sollten mindestens in den Formaten TTF/OTF und WOFF2 vorliegen.
 
 ## Farben
