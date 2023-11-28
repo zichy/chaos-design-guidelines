@@ -15,50 +15,50 @@ Das Design von (jährlichen) Chaos-Veranstaltungen zeichnet sich durch folgende 
 
 ## Schriftarten
 
-* Es sollte mindestens eine gut lesbare Schriftart für Fließtexte gewählt werden.
-* Schriftarten für Fließtexte sollten mindestens in den Schnitten Regular, Fett, Kursiv und Fett-Kursiv verfügbar sein.
+* Es gibt mindestens eine gut lesbare Schriftart für Fließtexte.
+* Schriftarten für Fließtexte sind mindestens in den Schnitten Regular, Fett, Kursiv und Fett-Kursiv verfügbar.
 * Zu detaillierte typografische Richtlinien oder Veränderungen der Glyphen sind von Laien schwer umsetzbar.
-* Schriftarten sollten frei zugänglich sein – bevorzugt sind gemeinfreie und unter der [OFL](https://scripts.sil.org/ofl) lizenzierte.
-* Die verwendeten Schriftarten sollten mindestens in den Formaten TTF/OTF und WOFF2 vorliegen.
+* Schriftarten sind frei zugänglich, bevorzugt gemeinfrei oder unter der [OFL](https://scripts.sil.org/ofl) lizenziert.
+* Die verwendeten Schriftarten liegen mindestens in den Formaten TTF/OTF und WOFF2 vor.
 
 ## Farben
 
-* Farben sollten je nach Einsatzzweck ein ausreichenden Kontrast zueinander haben. Abgeleitet von den [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) (WCAG) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
-* Farben sollten in unterschiedlichen Formaten (bspw. hexadezimal, RGB, HSL, CMYK) angegeben werden.
-* Die Anwendungsgebiete der Farben sollten beschrieben und illustriert werden.
+* Farben haben je nach Einsatzzweck einen ausreichenden Kontrast zueinander. Abgeleitet von den [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) (WCAG) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
+* Farbwerte sind in unterschiedlichen Formaten (bspw. hexadezimal, RGB, HSL, CMYK) angegeben.
+* Die Anwendungsgebiete der Farben sind beschrieben und illustriert.
 
 ## Grafische Elemente
 
 Grafische Designelemente sind Icons, Formen, Muster und Illustrationen, die auch untereinander kombinierbar sein können.
 
-* Die gewünschte Verwendung der grafischen Elemente sollte beschrieben und illustriert werden.
-* Grafische Elemente sollten in gängigen Formaten (JPG/PNG/WEBP für Rastergrafiken, SVG für Vektorgrafiken) bereitgestellt werden.
-* Verwendete Icon-Sets sollten unter einer freien Lizenz stehen.
-* Die Erstellung eigener grafischer Elemente im gleichen Stil sollte unkompliziert sein, alternativ kann ein Generator zur Verfügung gestellt werden. (Beispiele: [36C3](https://36c3.bleeptrack.de), [37C3](https://eulervoid.com/dither/))
+* Die gewünschte Verwendung der grafischen Elemente ist beschrieben und illustriert.
+* Grafische Elemente sind in gängigen Formaten (JPG/PNG/WEBP für Rastergrafiken, SVG für Vektorgrafiken) bereitgestellt.
+* Verwendete Icon-Sets stehen unter einer freien Lizenz.
+* Die Erstellung eigener grafischer Elemente im gleichen Stil ist unkompliziert, optional wird ein Generator zur Verfügung gestellt. (Beispiele: [36C3](https://36c3.bleeptrack.de), [37C3](https://eulervoid.com/dither/))
 
 ## Web-Elemente
 
-Die bei Chaos-Veranstaltungen eingesetzte webbasierte Software wird in der Regel nur eingefärbt oder anderweitig leicht angepasst, was im Umfang berücksichtigt werden sollte.
+Die bei Chaos-Veranstaltungen eingesetzte webbasierte Software wird in der Regel nur eingefärbt oder anderweitig leicht angepasst, was im Umfang des Designs berücksichtigt wird.
 
-* Web-Elemente sollten neben Schrift und Farbe nur einige wenige interaktive Elemente wie Buttons und Eingabefelder beinhalten.
-* Web-Elemente sollten unkompliziert und [barrierefrei](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website) in HTML/CSS umsetzbar sein.
+* Web-Elemente beinhalten neben Schrift und Farbe nur einige wenige interaktive Elemente wie Buttons und Eingabefelder.
+* Web-Elemente sind unkompliziert und [barrierefrei](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website) in HTML/CSS umsetzbar.
 
 ## Schilder & Plakate
 
-Fast alle Chaos-Veranstaltungen sind mit unterschiedlichen Schildern und Plakaten ausgewiesen, die bspw. Wege ausschildern oder auf Workshops bewerben.
+Fast alle Chaos-Veranstaltungen sind mit unterschiedlichen Schildern und Plakaten ausgewiesen, die bspw. Wege kennzeichnen oder auf Workshops bewerben.
 
-* Das grundsätzliche Design für Schilder sollte vorgegeben werden.
+* Das grundsätzliche Design für Schilder ist vorgegeben.
 * Ein webbasierter Postergenerator erleichtert Laien die Erstellung eigener Schilder.
-* Eine mögliche Kooperation mit [c3sign](https://c3sign.de) kann für alle benötigten Schilder sorgen.
+* Eine mögliche Kooperation mit [c3sign](https://c3sign.de) erleichtert die Erstellung notwendiger Schilder.
 
 ## Styleguides
 
 Als [Styleguides](https://de.wikipedia.org/wiki/Styleguide) werden Dokumente oder Webseiten bezeichnet, die beschreiben, was das erstellte Design beinhaltet und wie dessen Elemente einzusetzen sind. Die Zielgruppe beinhaltet auch Menschen, die selten mit Grafikprogrammen arbeiten.
 
-* Styleguides sollten möglichst verständlich und übersichtlich angelegt werden.
+* Styleguides sind möglichst verständlich und übersichtlich angelegt.
 * „Dos and Don'ts“ können hilfreich sein – aber die Community wird sich nicht zwangsläufig daran halten.
-* PDF-Styleguides sollten [barrierefrei](https://www.bundesfachstelle-barrierefreiheit.de/DE/Fachwissen/Informationstechnik/Barrierefreie-PDF/barrierefreie-pdf_node.html) angelegt werden und etwaige Links klickbar sein.
-* Web-Styleguides sollten [barrierefrei](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website) umgesetzt sein.
+* PDF-Styleguides sind [barrierefrei](https://www.bundesfachstelle-barrierefreiheit.de/DE/Fachwissen/Informationstechnik/Barrierefreie-PDF/barrierefreie-pdf_node.html) angelegt und etwaige Links sind klickbar.
+* Web-Styleguides sind [barrierefrei](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website) umgesetzt.
 
 ## Lizenz
 
