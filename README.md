@@ -20,7 +20,7 @@ Das Design von (jährlichen) Chaos-Veranstaltungen zeichnet sich durch folgende 
 * Schriftarten für Fließtexte sind mindestens in den Schnitten Regular, Fett, Kursiv und Fett-Kursiv verfügbar.
 * Auf zu detaillierte typografische Richtlinien wird verzichtet.
 * Schriftarten sind gemeinfrei oder unter der [OFL](https://scripts.sil.org/ofl) lizenziert.
-* Die verwendeten Schriftarten liegen mindestens in den Formaten TTF/OTF und WOFF2 vor.
+* Schriftarten liegen mindestens in den Formaten TTF/OTF und WOFF2 vor.
 
 ## Farben
 
