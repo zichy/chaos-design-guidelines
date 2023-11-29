@@ -23,7 +23,7 @@ Das Design von (jährlichen) Chaos-Veranstaltungen zeichnet sich durch folgende 
 
 ## Farben
 
-* Farben haben je nach Einsatzzweck einen ausreichenden Kontrast zueinander. Abgeleitet von den [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) (WCAG) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
+* Farben haben je nach Einsatzzweck einen ausreichenden Kontrast zueinander. Abgeleitet von den [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
 * Farbwerte sind in unterschiedlichen Formaten (bspw. hexadezimal, RGB, HSL, CMYK) angegeben.
 * Die Anwendungsgebiete der Farben sind beschrieben und illustriert.
 
@@ -45,7 +45,7 @@ Die bei Chaos-Veranstaltungen eingesetzte webbasierte Software wird in der Regel
 
 ## Schilder & Plakate
 
-Fast alle Chaos-Veranstaltungen sind mit unterschiedlichen Schildern und Plakaten ausgewiesen, die bspw. Wege kennzeichnen oder auf Workshops bewerben.
+Fast alle Chaos-Veranstaltungen sind mit unterschiedlichen Schildern und Plakaten ausgewiesen, die bspw. Wege kennzeichnen oder Workshops bewerben.
 
 * Das grundsätzliche Design für Schilder ist vorgegeben.
 * Ein webbasierter Postergenerator erleichtert Laien die Erstellung eigener Schilder.
