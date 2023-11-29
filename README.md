@@ -9,23 +9,24 @@ Die Guidelines sind vorläufig nur auf Deutsch verfügbar.
 Das Design von (jährlichen) Chaos-Veranstaltungen zeichnet sich durch folgende Merkmale aus:
 
 * Es wechselt mit jeder Veranstaltung.
-* Es kann von anderen sehr frei interpretiert werden – sei es bei Schildern, Grafiken oder Webseiten.
+* Alle Designelemente können von anderen sehr frei interpretiert werden.
 * Der Umfang kann unterschiedlich ausfallen.
 * Nicht jede Richtlinie kann auf alle Veranstaltungen angewandt werden.
 
 ## Schriftarten
 
-* Es gibt mindestens eine gut lesbare Schriftart für Fließtexte.
+* Die gewünschte Verwendung von Schiftarten ist beschrieben und illustriert.
+* Es gibt mindestens eine gut lesbare Schriftart für Fließtexte oder Schilder.
 * Schriftarten für Fließtexte sind mindestens in den Schnitten Regular, Fett, Kursiv und Fett-Kursiv verfügbar.
-* Zu detaillierte typografische Richtlinien oder Veränderungen der Glyphen sind von Laien schwer umsetzbar.
+* Auf zu detaillierte typografische Richtlinien wird verzichtet.
 * Schriftarten sind gemeinfrei oder unter der [OFL](https://scripts.sil.org/ofl) lizenziert.
 * Die verwendeten Schriftarten liegen mindestens in den Formaten TTF/OTF und WOFF2 vor.
 
 ## Farben
 
+* Die gewünschte Verwendung der Farben sind beschrieben und illustriert.
 * Farben haben je nach Einsatzzweck einen ausreichenden Kontrast zueinander. Abgeleitet von den [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
 * Farbwerte sind in unterschiedlichen Formaten (bspw. hexadezimal, RGB, HSL, CMYK) angegeben.
-* Die Anwendungsgebiete der Farben sind beschrieben und illustriert.
 
 ## Grafische Elemente
 
@@ -47,16 +48,16 @@ Die bei Chaos-Veranstaltungen eingesetzte webbasierte Software wird in der Regel
 
 Fast alle Chaos-Veranstaltungen sind mit unterschiedlichen Schildern und Plakaten ausgewiesen, die bspw. Wege kennzeichnen oder Workshops bewerben.
 
-* Das grundsätzliche Design für Schilder ist vorgegeben.
-* Ein webbasierter Postergenerator erleichtert Laien die Erstellung eigener Schilder.
-* Eine mögliche Kooperation mit [c3sign](https://c3sign.de) erleichtert die Erstellung notwendiger Schilder.
+* Das grundsätzliche Design für Schilder ist beschrieben und illustriert.
+* Es gibt einen (webbasierten) Postergenerator, der die Erstellung eigener Schilder erleichtert.
+* Eine Kooperation mit [c3sign](https://c3sign.de) erleichtert die Erstellung notwendiger Schilder.
 
 ## Styleguides
 
 Als [Styleguides](https://de.wikipedia.org/wiki/Styleguide) werden Dokumente oder Webseiten bezeichnet, die beschreiben, was das erstellte Design beinhaltet und wie dessen Elemente einzusetzen sind. Die Zielgruppe beinhaltet auch Menschen, die selten mit Grafikprogrammen arbeiten.
 
 * Styleguides sind möglichst verständlich und übersichtlich angelegt.
-* „Dos and Don'ts“ können hilfreich sein – aber die Community wird sich nicht zwangsläufig daran halten.
+* „Dos and Don'ts“ werden aufgezeigt.
 * PDF-Styleguides sind [barrierefrei](https://www.bundesfachstelle-barrierefreiheit.de/DE/Fachwissen/Informationstechnik/Barrierefreie-PDF/barrierefreie-pdf_node.html) angelegt und etwaige Links sind klickbar.
 * Web-Styleguides sind [barrierefrei](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website) umgesetzt.
 
