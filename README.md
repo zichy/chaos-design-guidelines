@@ -36,6 +36,7 @@ Grafische Designelemente sind Icons, Formen, Muster und Illustrationen, die auch
 * Grafische Elemente sind in gängigen Formaten (JPG/PNG/WEBP für Rastergrafiken, SVG für Vektorgrafiken) bereitgestellt.
 * Verwendete Icon-Sets stehen unter einer offenen/freien Lizenz.
 * Die Erstellung eigener grafischer Elemente im gleichen Stil ist unkompliziert, optional wird ein Generator zur Verfügung gestellt. (Beispiele: [36C3](https://36c3.bleeptrack.de), [37C3](https://eulervoid.com/dither/))
+* Die grafischen Elemente sollten nicht mithilfe von sogenannter künstlicher Intelligenz erzeugt werden.
 
 ## Web-Elemente
 
