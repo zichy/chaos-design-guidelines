@@ -25,7 +25,7 @@ Das Design von (jährlichen) Chaos-Veranstaltungen zeichnet sich durch folgende 
 ## Farben
 
 * Die gewünschte Verwendung der Farben ist beschrieben und illustriert.
-* Farben haben je nach Einsatzzweck einen ausreichenden Kontrast zueinander. Abgeleitet von den [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
+* Farben haben je nach Einsatzzweck einen ausreichenden Kontrast zueinander. Abgeleitet von den [WCAG](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) beträgt dieser mindestens 4.5:1 für kleinen und 3:1 für großen Text.
 * Farbwerte sind in unterschiedlichen Formaten (bspw. hexadezimal, RGB, HSL, CMYK) angegeben.
 
 ## Grafische Elemente
